@@ -5,4 +5,26 @@
 
 # ANN-Prediksi-Kekeringan
 Tugas 2 Mata Kuliah Machine Learning (Artificial Neural Network Drought Prediction)
-<ul><li>Dataset kekeringan ini dapat anda diakses di https://www.kaggle.com/cdminix/us-drought-meteorological-data</li></ul>
+<ul><li>Dataset kekeringan ini dapat anda akses di https://www.kaggle.com/cdminix/us-drought-meteorological-data</li></ul>
+
+<br>
+
+## Implementasi
+1. Download repositori ini.
+2. Download dataset kekeringan.
+3. Buat folder didalam google drive anda dengan nama dataset -> Upload dataset kekeringan di folder tersebut.
+4. Upload project PrediksiKekeringan.ipynb di google drive anda.
+5. Sesuaikan dengan kebutuhan anda.
+6. Run.
+7. Selesai, program berhasil dijalankan.
+
+<br>
+
+## Kelompok 9
+| NO | NAMA ANGGOTA KELOMPOK | NPM |
+| --- | --- | --- |
+| 1 | Devan Cakra Mudra Wijaya | 18081010013 |
+| 2 | Heri Khariono | 18081010002 |
+| 3 | Rifky Akhmad Fernanda | 18081010126 |
+| 4 | Ika Nur Habibah | 18081010033 |
+| 5 | Trisa Pratiwi | 18081010036 |
