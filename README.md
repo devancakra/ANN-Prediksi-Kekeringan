@@ -49,7 +49,7 @@ Tugas 2 Mata Kuliah Machine Learning (Artificial Neural Network Drought Predicti
 1. Download repositori ini.
 2. Download dataset kekeringan.
 3. Buat folder didalam google drive anda dengan nama dataset -> Upload dataset kekeringan di folder tersebut.
-4. Upload project PrediksiKekeringan.ipynb di google drive anda.
+4. Upload project ANN_SOIL.ipynb dan ANN_WEATHER.ipynb di google drive anda.
 5. Sesuaikan dengan kebutuhan anda.
 6. Run.
 7. Selesai, program berhasil dijalankan.
